@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">CursoDiegoMoisset</string>
     <string name="mostrar_mensaje">Mostrar Mensaje</string>
+    <string name="botton_2">Video 3</string>
+    <string name="ingrese_el_valor">Ingrese el valor</string>
+    <string name="ingrese_el_segundo_valor">Ingrese el segundo valor</string>
+    <string name="sumar">Sumar</string>
+    <string name="botton_3">Video 4</string>
 </resources>
