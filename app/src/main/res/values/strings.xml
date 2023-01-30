@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CursoDiegoMoisset</string>
+    <string name="mostrar_mensaje">Mostrar Mensaje</string>
 </resources>
